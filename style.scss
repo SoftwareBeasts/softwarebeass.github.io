@@ -282,9 +282,15 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
 .footer-logo{
   margin:0 auto;
   text-aling:center;
+}
+
+.footer-logo img{
+  width:210px;
+  height:140px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
