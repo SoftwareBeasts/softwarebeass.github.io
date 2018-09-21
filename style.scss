@@ -296,12 +296,13 @@ footer {
 .end-logo{
   margin:0 auto;
   text-aling:center;
+  height240px;
   width:420px;
 }
 
 .end-logo img{
-  width:420px;
-  height:240px;
+  max-width:420px;
+  max-height:240px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
