@@ -39,8 +39,8 @@ Editando `/_posts/2014-3-3-Hello-World.md` para publicar la primera entrada del 
 
 ## Desarollo en local
 
-1. Instalamos Jekyll y sus plugins de una sola vez. `gem install github-pages` Esto refleja los plugins  utilizados por GitHub Pages en local, incluidos Jekyll, Sass, etc.
+1. Instalamos Jekyll y sus plugins de una sola vez. `gem install github-pages` Esto refleja los plugins utilizados por GitHub Pages en local, incluidos Jekyll, Sass, etc.
 2. Clonamos nuestro repositorio con `git clone https://github.com/SoftwareBeasts/softwarebeasts.github.io.git`
-3. Servimos el sitio y observamos los cambios de marcado/sass con `jekyll serve`
+3. Servimos el sitio y observamos los cambios del marcado/sass con `jekyll serve`
 4. Vemos la página web en http://127.0.0.1:4000/
 5. Hacemos commit de cualquier cambio y enviamos todo a la rama principal del repositorio de GitHub. GitHub Pages luego reconstruirá y servirá al sitio web.
